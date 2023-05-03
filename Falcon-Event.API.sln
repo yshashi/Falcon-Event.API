@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Falcon-Event.API", "Falcon-Event.API\Falcon-Event.API.csproj", "{EF73A3DE-CAED-4B9D-9BDD-EFE9F8CAE39B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF73A3DE-CAED-4B9D-9BDD-EFE9F8CAE39B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF73A3DE-CAED-4B9D-9BDD-EFE9F8CAE39B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF73A3DE-CAED-4B9D-9BDD-EFE9F8CAE39B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF73A3DE-CAED-4B9D-9BDD-EFE9F8CAE39B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

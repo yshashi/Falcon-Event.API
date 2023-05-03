@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "h/AUXHah7vK8YRgXnX3aUQYhc0O4I+dxJT0U+X+jqHo=",
+  "Source": "Falcon-Event.API",
+  "BasePath": "_content/Falcon-Event.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

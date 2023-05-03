@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/Falcon-Event.API.props" />
+</Project>
